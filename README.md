@@ -974,14 +974,6 @@ Built a Solidity-based NFT auction marketplace implementing ERC-721 minting, tim
 
 ---
 
-# GitHub Repository Description
-
-```text
-Solidity NFT Auction House on ZKsync Era — ERC-721 minting, timed English auctions, NFT escrow, pull-based refunds, platform fees, security patterns, and automated Hardhat tests.
-```
-
----
-
 # License
 
 This project is licensed under the MIT License.
